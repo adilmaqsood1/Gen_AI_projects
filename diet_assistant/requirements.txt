@@ -1,3 +1,5 @@
 streamlit==1.25.0  # Adjust the version as needed
 groq
 pip==24.2
+Pillow==9.0.1
+
